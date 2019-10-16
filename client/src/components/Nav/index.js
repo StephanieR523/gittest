@@ -14,7 +14,7 @@ function Nav() {
         No Match
       </Link>
       <Link className="navbar-brand" to="/books/5da1deb7de03f8918a5a3ae8">
-      My Favorite Book
+        My Favorite Book
       </Link>
     </nav>
   );
